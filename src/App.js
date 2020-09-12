@@ -5,9 +5,7 @@ import ImageGrid from './comps/imageGrid';
 function App() {
   return (
     <div className="App">
-      <Title/>
-      <UploadForm />
-      <ImageGrid />
+ <h2>Hello Exibits Docker Demo</h2>
     </div>
   );
 }
